@@ -1,0 +1,1 @@
+t=int(input());print(t//5+int(t%5!=0))
