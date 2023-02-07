@@ -1,0 +1,1 @@
+s=":fan:";print(s*3);print(s+":"+input()+":"+s);print(s*3)
