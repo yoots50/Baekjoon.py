@@ -1,0 +1,1 @@
+import math;print("long "*math.ceil(int(input())/4)+"int")
